@@ -1,65 +1,36 @@
-# Regulamin serwera Discord
-1. Zakazane jest spamowanie i floodowanie.
+# Regulamin Discord - Skycraft.pl
+###### Witaj na serwerze Discord Skycraft.pl! Aby wszyscy mogli cieszyć się grą i wspólnymi rozmowami, prosimy o przestrzeganie poniższych zasad. Regulamin ten jest stworzony, aby zapewnić przyjazną i bezpieczną atmosferę dla graczy w każdym wieku, szczególnie dla młodszych użytkowników.
+
+# 1.  Szacunek dla innych
+#### 1.1 Zawsze traktuj innych użytkowników z szacunkiem. Unikaj obrażania, nękania, wyśmiewania lub prowokowania. Każdy ma prawo do swojego zdania, ale w granicach kultury.
+#### 1.2 Zachowuj się tak, jak chciałbyś, aby inni traktowali Ciebie.
+# 2. Język – umiarkowane przeklinanie jest dozwolone
+#### 2.1 Zrozumiałe jest, że czasem można się zdenerwować podczas gry, dlatego umiarkowane przeklinanie jest dozwolone, ale z umiarem.
+#### 2.2 Przekleństwa nie mogą być używane do obrażania innych użytkowników, a wszelkie wypowiedzi powinny być zgodne z ogólnie przyjętymi normami kultury, zwłaszcza że na serwerze są młodsi gracze.
+# 3. Zakaz dyskryminacji
+#### 3.1 Każdy jest mile widziany na serwerze, niezależnie od rasy, płci, religii, orientacji seksualnej, wieku czy innych cech osobistych.
+#### 3.2 Dyskryminacja, obraźliwe komentarze lub wykluczanie kogokolwiek ze względu na te różnice nie będą tolerowane.
+# 4. Zakaz spamowania i floodowania
+#### 4.1 Spamowanie to wysyłanie tej samej wiadomości wielokrotnie, a floodowanie to pisanie wielu wiadomości z rzędu.
+#### 4.2 Używaj jednego posta, aby wyrazić swoją myśl, i staraj się, aby rozmowa była płynna i uporządkowana.
+# 5. Zakaz reklamowania innych serwerów i treści bez zgody administracji
+#### 5.1 Nie reklamuj innych serwerów, stron internetowych, kanałów YouTube, Twitcha ani produktów bez wcześniejszej zgody administracji.
+#### 5.2 Możesz dzielić się swoimi projektami, ale muszą one być związane z Minecraftem lub ogólną tematyką serwera, i tylko za zgodą administracji.
+# 6. Kanały głosowe – zachowanie kultury
+#### 6.1 Na kanałach głosowych zachowuj się kulturalnie – nie krzycz, nie używaj głośnych dźwięków, które mogą przeszkadzać innym.
+#### 6.2 Każdy uczestnik rozmowy powinien mieć możliwość wypowiedzenia się, dlatego unikaj przerywania innym.
+# 7.Zakaz udostępniania nieodpowiednich treści
+#### 7.1 Na serwerze zabronione jest udostepnianie treści nieodpowiednich dla młodszych użytkowników. Dotyczy to zdjęć, filmów, linków czy memów o charakterze wulgarnym, przemocowym, seksualnym lub nielegalnym.
+#### 7.2 Pamiętaj, że na serwerze są osoby w różnym wieku, więc bądź odpowiedzialny za to, co publikujesz.
+# 8. Cheaty i hacki – zakaz promowania nieuczciwej gry
+#### 8.1 Nie promuj, nie używaj ani nie dyskutuj na temat cheatów, hacków i innych form nieuczciwego grania, zarówno w Minecraft, jak i w innych grach.
+#### 8.2 Uczciwa rywalizacja sprawia, że gra jest przyjemniejsza i bardziej satysfakcjonująca dla wszystkich.
+# 9. Zakaz nagrywania rozmów na kanałach głosowych bez zgody
+#### 9.1 Nagrywanie rozmów na kanałach głosowych jest zabronione, chyba że robisz to w celach dowodowych, np. do zgłoszenia naruszeń regulaminu.
+#### 9.2 Jeśli zamierzasz nagrać rozmowę w takim celu, poinformuj administracje o nagraniu. W innych sytuacjach nagrywanie jest niedozwolone.
+# 10. Zgłaszanie problemów i współpraca z administracją
+#### Jeśli zauważysz, że ktoś łamie regulamin, zachowuje się nieodpowiednio lub potrzebujesz pomocy, zgłoś to administracji.
+#### Wszelkie zgłoszenia traktujemy poważnie, aby utrzymać porządek i przyjazną atmosferę na serwerze.
 
 
-2. Nie pytaj o rolę.
-
-
-3. Żadnego szantażu na czacie.
-
-
-4. Jeśli uważasz, że administrator popełnił błąd, napisz do @Mefjuuuu#5143
-
-
-5. Zabronione jest nadawanie pseudonimu identycznego z pseudonimem administratora lub innego użytkownika.
-
-
-6. Zabronione jest wysyłanie linków lub plików zawierających jakiekolwiek treści wulgarne/rasistowskie/pornograficzne/religijne itp. oraz plików szkodliwych (wirusy).
-
-
-7. Administrator ma zawsze rację.
-
-
-8. Administrator ma prawo do karania osób według własnego uznania bez uzasadnienia.
-
-
-9. Zabrania się wysyłania linków na kanałach bez wcześniejszego uzgodnienia tego z administracją.
-
-
-10. Używanie kanału niezgodnie z jego przeznaczeniem będzie karane.
-
-
-11. Wszelkie nadużycia zasad serwera lub jego działania będzie karane.
-
-
-12. Każdy błąd znaleziony na serwerze discord ma zostać zgłoszony administracji oraz użytkownik nie ma prawa do wykorzystywania go.
-
-
-13. Zakazane jest prowokowanie kłótni, dyskusji które mają negatywny wpływ na serwer.
-
-
-14. Przeszkadzanie administracji w pracy będzie karane.
-
-
-15. Awatar oraz nick nie może zawierać treści obraźliwych/rasistowskich/wulgarnych itp.
-
-
-16. Komend można używać tylko na kanale do tego stworzonym.
-
-
-17. Reklamowanie jakichkolwiek serwerów zewnętrznych: gier, stron www, serwerów discord itp. bez pisemnej zgody właściciela jest karalne.
-
-
-18. Absolutny zakaz niszczenia wizerunku innych graczy/administracji lub serwera.
-
-
-19. Administracja ma prawo ukarać członków serwera za każdy ich czyn który jest przyjęty przez społeczeństwo za naganny.
-
-
-20. Posiadanie w pseudonimie Discord znaków mających na celu uniemożliwić oznaczenie jest zakazane.
-
-
-21. Zakazuje się oznaczania członków administracji na kanałach tekstowych.
-
-
-22. Skargi na administrację proszę zgłaszać do właściciela @Mefjuuuu#5143
+## Administracja zastrzega sobie prawo do zmiany regulaminu w dowolnym momencie, informując o tym użytkowników. Dziękujemy za przestrzeganie zasad i życzymy miłej zabawy na serwerze!
